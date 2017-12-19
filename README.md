@@ -69,17 +69,4 @@ If this ptoject helps you a lot, and you would like to support this ptoject's fu
 
 [donate]: https://raw.githubusercontent.com/Blankj/AndroidUtilCode/master/art/donate.png
 
-[blogsvg]: https://img.shields.io/badge/Blog-@Blankj-34a48e.svg
-[blog]: http://blankj.com
-
-[jianshusvg]: https://img.shields.io/badge/简书-@Blankj-34a48e.svg
-[jianshu]: http://www.jianshu.com/u/46702d5c6978
-
-[weibosvg]: https://img.shields.io/badge/weibo-@__Blankj-34a48e.svg
-[weibo]: http://weibo.com/3076228982
-
-[qq0groupsvg]: https://img.shields.io/badge/QQ0群(满)-74721490-ff73a3.svg
-[qq0group]: https://shang.qq.com/wpa/qunwpa?idkey=62baf2c3ec6b0863155b0c7a10c71bba2608cb0b6532fc18515835e54c69bdd3
-
-[qq1groupsvg]: https://img.shields.io/badge/QQ1群-25206533-ff73a3.svg
-[qq1group]: https://shang.qq.com/wpa/qunwpa?idkey=d906789f84484465e2736f7b524366b4c23afeda38733d5c7b10fc3f6e406e9b
+ 
