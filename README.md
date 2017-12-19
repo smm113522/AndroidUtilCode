@@ -67,6 +67,4 @@ If this ptoject helps you a lot, and you would like to support this ptoject's fu
 
 [update_log.md]: https://github.com/Blankj/AndroidUtilCode/blob/master/update_log.md
 
-[donate]: https://raw.githubusercontent.com/Blankj/AndroidUtilCode/master/art/donate.png
-
  
